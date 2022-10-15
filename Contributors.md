@@ -9,5 +9,5 @@
 - [BlackHoax](https://github.com/BlackHoax/)
 - [Oumar Fall](https://github.com/omar6260/)
 - [Galsen DEV](https://github.com/GalsenDev221)
-- [Asse Badiane ](https://github.com/Bonde98)
+- [Asse Badiane](https://github.com/Bonde98)
 
