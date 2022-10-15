@@ -9,10 +9,5 @@
 - [BlackHoax](https://github.com/BlackHoax/)
 - [Oumar Fall](https://github.com/omar6260/)
 - [Galsen DEV](https://github.com/GalsenDev221)
-- [Hacktoberfest 2022](https://hacktoberfest.com/)
-- [seegah](https://github.com/seegah/)
-- [Birame Ndoye](https://github.com/biramendoye)
-- [Assane Yacouba Anida](https://github.com/Anida-Assane)
-- [Lamine MBENGUE](https://github.com/LamineMBENGUE/)
-- [Al Seny DIALLO](https://github.com/alseny-diallo/)
-- [Bruna Oliveira ](https://github.com/bruna-luc)
+- [Asse Badiane ](https://github.com/Bonde98)
+
